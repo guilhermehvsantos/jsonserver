@@ -392,50 +392,6 @@
     },
     {
       "id": "7",
-      "name": "Brigadeiro",
-      "total_ingredients": "4",
-      "time": 20,
-      "cover": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/631c8344389e4bada5bfb203b05f385e/BFV11392_Brigadeiro4-waysTastyOlympics-FB1080SQ.jpg",
-      "video": "https://www.youtube.com/watch?v=W4XVyB7dw6Q",
-      "ingredients": [
-        {
-          "id": "1",
-          "name": "Leite condensado",
-          "amount": "1 lata"
-        },
-        {
-          "id": "2",
-          "name": "Chocolate em pó",
-          "amount": "4 colheres de sopa"
-        },
-        {
-          "id": "3",
-          "name": "Manteiga",
-          "amount": "1 colher de sopa"
-        },
-        {
-          "id": "4",
-          "name": "Chocolate granulado",
-          "amount": "a gosto"
-        }
-      ],
-      "instructions": [
-        {
-          "id": "1",
-          "text": "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga."
-        },
-        {
-          "id": "2",
-          "text": "Cozinhe em fogo médio, mexendo sempre, até desgrudar do fundo da panela."
-        },
-        {
-          "id": "3",
-          "text": "Deixe esfriar, faça bolinhas e passe no chocolate granulado."
-        }
-      ]
-    },
-    {
-      "id": "8",
       "name": "Torta de Limão",
       "total_ingredients": "6",
       "time": 50,
@@ -501,7 +457,7 @@
       ]
     }, 
     {
-      "id": "9",
+      "id": "8",
       "name": "Bolo de Cenoura",
       "total_ingredients": "9",
       "time": 60,
