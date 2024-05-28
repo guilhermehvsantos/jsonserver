@@ -98,7 +98,7 @@
       "instructions": [
         {
           "id": "1",
-          "text": "Passe o molho de toma em cima da massa com uma colher."
+          "text": "Passe o molho de tomate em cima da massa."
         },
         {
           "id": "2",
@@ -106,18 +106,14 @@
         },
         {
           "id": "3",
-          "text": "Adicione a calabesa sobre o queijo."
+          "text": "Adicione a calabesa."
         },
         {
           "id": "4",
-          "text": "Coloque as cebolas cortadas em rodelas sobre a pizza."
+          "text": "Coloque as cebolas cortadas e orégano em rodelas sobre a pizza."
         },
         {
           "id": "5",
-          "text": "Adicione orégano (à gosto)."
-        },
-        {
-          "id": "6",
           "text": "Leve ao forno quente em torno de 15 a 20 minutos."
         }
       ]
@@ -281,11 +277,6 @@
           "name": "Queijo mussarela",
           "amount": "400g"
         },
-        {
-          "id": "5",
-          "name": "Sal",
-          "amount": "à gosto"
-        }
       ],
       "instructions": [
         {
