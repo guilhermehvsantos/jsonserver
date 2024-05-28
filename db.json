@@ -58,67 +58,6 @@
     },
     { 
       "id": "2",
-      "name": "Strogonoff Frango",
-      "total_ingredients": "5",
-      "time": 60,
-      "cover": "https://i.imgur.com/ITYi8kH.png",
-      "video":"https://www.youtube.com/watch?v=y9yKuT1m9LI",
-      "ingredients": [
-        {
-          "id": "1",
-          "name": "Frango (patinho)",
-          "amount": "700g"
-        },
-        {
-          "id": "2",
-          "name": "Arroz branco",
-          "amount": "2 xícaras"
-        },
-        {
-          "id": "3",
-          "name": "Molho de tomate",
-          "amount": "1 pacote 150g"
-        },
-        {
-          "id": "4",
-          "name": "Creme de leite",
-          "amount": "1 caixa"
-        },
-        {
-          "id": "5",
-          "name": "Ketchup",
-          "amount": "1 colher (chá)"
-        }
-      ],
-      "instructions": [
-        {
-          "id": "1",
-          "text": "Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta."
-        },
-        {
-          "id": "2",
-          "text": "Em uma frigideira grande, derreta a manteiga e doure a cebola."
-        },
-        {
-          "id": "3",
-          "text": "Junte o frango temperado até que esteja dourado."
-        },
-        {
-          "id": "4",
-          "text": "Adicione os cogumelos, o ketchup."
-        },
-        {
-          "id": "5",
-          "text": "Incorpore o creme de leite e retire do fogo antes de ferver."
-        },
-        {
-          "id": "6",
-          "text": "Sirva com arroz branco e batata palha."
-        }
-      ]
-    },
-    { 
-      "id": "3",
       "name":  "Pizza calabresa",
       "total_ingredients": "6",
       "time": 120,
@@ -184,7 +123,7 @@
       ]
     },
     { 
-      "id": "4",
+      "id": "3",
       "name":  "Pastel",
       "total_ingredients": "6",
       "time": 30,
@@ -250,7 +189,7 @@
       ]
     },
     { 
-      "id": "5",
+      "id": "4",
       "name":  "Pudim de leite condensado",
       "total_ingredients": "5",
       "time": 65,
@@ -315,7 +254,7 @@
       ]
     },
     { 
-      "id": "6",
+      "id": "5",
       "name":  "Pizza frango com catupiry",
       "total_ingredients": "5",
       "time": 60,
@@ -372,7 +311,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "6",
       "name": "Lasanha Bolonhesa",
       "total_ingredients": "8",
       "time": 90,
@@ -452,7 +391,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "7",
       "name": "Brigadeiro",
       "total_ingredients": "4",
       "time": 20,
@@ -496,7 +435,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "8",
       "name": "Torta de Limão",
       "total_ingredients": "6",
       "time": 50,
@@ -562,7 +501,7 @@
       ]
     }, 
     {
-      "id": "10",
+      "id": "9",
       "name": "Bolo de Cenoura",
       "total_ingredients": "9",
       "time": 60,
