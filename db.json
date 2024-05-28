@@ -119,7 +119,7 @@
       ]
     },
     { 
-      "id": "4",
+      "id": "3",
       "name":  "Pudim de leite condensado",
       "total_ingredients": "5",
       "time": 65,
@@ -210,7 +210,7 @@
           "id": "4",
           "name": "Queijo mussarela",
           "amount": "400g"
-        },
+        }
       ],
       "instructions": [
         {
