@@ -183,58 +183,59 @@
         }
       ]
     },
-    { 
-      "id": "5",
-      "name":  "Pizza frango com catupiry",
-      "total_ingredients": "5",
-      "time": 60,
-      "cover": "https://i.imgur.com/Tox2VkT.jpg",
-      "video":"https://youtu.be/EPD2igRTnfw",
-      "ingredients": [
-        {
-          "id": "1",
-          "name": "File peito de frango",
-          "amount": "400g"
-        },
-        {
-          "id": "2",
-          "name": "Orégano",
-          "amount": "4 colheres chá"
-        },
-        {
-          "id": "3",
-          "name": "Catupiry",
-          "amount": "250g"
-        },
-        {
-          "id": "4",
-          "name": "Queijo mussarela",
-          "amount": "400g"
-        }
-      ],
-      "instructions": [
-        {
-          "id": "1",
-          "text": "Cozinhe o Filé de peito DaGranja Seara em uma panela com água e sal. Quando estiver pronto, retire, desfie e tempere com sal, pimenta e salsinha."
-        },
-        {
-          "id": "2",
-          "text": "Espalhe o molho de tomate na massa de pizza cobrindo todo o disco."
-        },
-        {
-          "id": "3",
-          "text": "Espalhe o frango desfiado pela pizza."
-        },
-        {
-          "id": "4",
-          "text": "Coloque o catupiry em um saco de confeiteiro ou um saco plástico com furo na ponta e espalhe o queijo pela pizza. Você pode distribuir em espiral ou em linhas horizontais e verticais."
-        },
-        {
-          "id": "5",
-          "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
-        }
-      ]
+   {
+  "id": "4",
+  "name":  "Pizza frango com catupiry",
+  "total_ingredients": "5",
+  "time": 60,
+  "cover": "https://i.imgur.com/Tox2VkT.jpg",
+  "video":"https://youtu.be/EPD2igRTnfw",
+  "ingredients": [
+    {
+      "id": "1",
+      "name": "File peito de frango",
+      "amount": "400g"
     },
+    {
+      "id": "2",
+      "name": "Orégano",
+      "amount": "4 colheres chá"
+    },
+    {
+      "id": "3",
+      "name": "Catupiry",
+      "amount": "250g"
+    },
+    {
+      "id": "4",
+      "name": "Queijo mussarela",
+      "amount": "400g"
+    }
+  ],
+  "instructions": [
+    {
+      "id": "1",
+      "text": "Cozinhe o Filé de peito DaGranja Seara em uma panela com água e sal. Quando estiver pronto, retire, desfie e tempere com sal, pimenta e salsinha."
+    },
+    {
+      "id": "2",
+      "text": "Espalhe o molho de tomate na massa de pizza cobrindo todo o disco."
+    },
+    {
+      "id": "3",
+      "text": "Espalhe o frango desfiado pela pizza."
+    },
+    {
+      "id": "4",
+      "text": "Coloque o catupiry em um saco de confeiteiro ou um saco plástico com furo na ponta e espalhe o queijo pela pizza. Você pode distribuir em espiral ou em linhas horizontais e verticais."
+    },
+    {
+      "id": "5",
+      "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
+    }
+  ]
+},
+
     {
       "id": "6",
       "name": "Lasanha Bolonhesa",
