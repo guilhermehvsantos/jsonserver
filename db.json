@@ -370,6 +370,281 @@
           "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
         }
       ]
+    },
+    {
+      "id": "7",
+      "name": "Lasanha Bolonhesa",
+      "total_ingredients": "8",
+      "time": 90,
+      "cover": "https://img.cybercook.com.br/receitas/564/lasanha-de-carne-moida-2.jpeg",
+      "video": "https://www.youtube.com/watch?v=pNc6uZ5CJnQ",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Massa de lasanha",
+          "amount": "500g"
+        },
+        {
+          "id": "2",
+          "name": "Carne moída",
+          "amount": "500g"
+        },
+        {
+          "id": "3",
+          "name": "Molho de tomate",
+          "amount": "2 pacotes 300g"
+        },
+        {
+          "id": "4",
+          "name": "Queijo mussarela",
+          "amount": "300g"
+        },
+        {
+          "id": "5",
+          "name": "Presunto",
+          "amount": "300g"
+        },
+        {
+          "id": "6",
+          "name": "Cebola",
+          "amount": "1"
+        },
+        {
+          "id": "7",
+          "name": "Alho",
+          "amount": "2 dentes"
+        },
+        {
+          "id": "8",
+          "name": "Queijo parmesão ralado",
+          "amount": "100g"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Cozinhe a massa de lasanha conforme as instruções do pacote."
+        },
+        {
+          "id": "2",
+          "text": "Em uma panela, refogue a cebola e o alho, adicione a carne moída e cozinhe até dourar."
+        },
+        {
+          "id": "3",
+          "text": "Adicione o molho de tomate e cozinhe por 20 minutos."
+        },
+        {
+          "id": "4",
+          "text": "Em uma forma, alterne camadas de massa, carne, presunto e mussarela."
+        },
+        {
+          "id": "5",
+          "text": "Repita as camadas até acabarem os ingredientes."
+        },
+        {
+          "id": "6",
+          "text": "Finalize com queijo parmesão ralado por cima."
+        },
+        {
+          "id": "7",
+          "text": "Asse em forno preaquecido a 180°C por 30 minutos."
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Brigadeiro",
+      "total_ingredients": "4",
+      "time": 20,
+      "cover": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/631c8344389e4bada5bfb203b05f385e/BFV11392_Brigadeiro4-waysTastyOlympics-FB1080SQ.jpg",
+      "video": "https://www.youtube.com/watch?v=W4XVyB7dw6Q",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Leite condensado",
+          "amount": "1 lata"
+        },
+        {
+          "id": "2",
+          "name": "Chocolate em pó",
+          "amount": "4 colheres de sopa"
+        },
+        {
+          "id": "3",
+          "name": "Manteiga",
+          "amount": "1 colher de sopa"
+        },
+        {
+          "id": "4",
+          "name": "Chocolate granulado",
+          "amount": "a gosto"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga."
+        },
+        {
+          "id": "2",
+          "text": "Cozinhe em fogo médio, mexendo sempre, até desgrudar do fundo da panela."
+        },
+        {
+          "id": "3",
+          "text": "Deixe esfriar, faça bolinhas e passe no chocolate granulado."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Torta de Limão",
+      "total_ingredients": "6",
+      "time": 50,
+      "cover": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/5780910b0651d0b4d4406d271976cd4b.jpg",
+      "video": "https://www.youtube.com/watch?v=cc8QuY7seFQ",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Biscoito de maisena",
+          "amount": "200g"
+        },
+        {
+          "id": "2",
+          "name": "Manteiga",
+          "amount": "100g"
+        },
+        {
+          "id": "3",
+          "name": "Leite condensado",
+          "amount": "1 lata"
+        },
+        {
+          "id": "4",
+          "name": "Suco de limão",
+          "amount": "1/2 xícara"
+        },
+        {
+          "id": "5",
+          "name": "Creme de leite",
+          "amount": "1 lata"
+        },
+        {
+          "id": "6",
+          "name": "Raspas de limão",
+          "amount": "a gosto"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Triture os biscoitos de maisena no liquidificador."
+        },
+        {
+          "id": "2",
+          "text": "Misture os biscoitos triturados com a manteiga derretida até formar uma massa."
+        },
+        {
+          "id": "3",
+          "text": "Forre o fundo de uma forma com a massa e leve ao forno preaquecido a 180°C por 10 minutos."
+        },
+        {
+          "id": "4",
+          "text": "Misture o leite condensado, o suco de limão e o creme de leite até ficar homogêneo."
+        },
+        {
+          "id": "5",
+          "text": "Despeje o creme sobre a massa já assada e leve à geladeira por 30 minutos."
+        },
+        {
+          "id": "6",
+          "text": "Decore com raspas de limão antes de servir."
+        }
+      ]
+    }, 
+    {
+      "id": "10",
+      "name": "Bolo de Cenoura",
+      "total_ingredients": "9",
+      "time": 60,
+      "cover": "https://bakeandcakegourmet.com.br/uploads/site/receitas/bolo-de-cenoura-sem-gluten-ghqgbkkh.jpg",
+      "video": "https://www.youtube.com/watch?v=aGwhG24sv4s",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Cenoura",
+          "amount": "3 médias"
+        },
+        {
+          "id": "2",
+          "name": "Ovos",
+          "amount": "4"
+        },
+        {
+          "id": "3",
+          "name": "Óleo",
+          "amount": "1 xícara"
+        },
+        {
+          "id": "4",
+          "name": "Açúcar",
+          "amount": "2 xícaras"
+        },
+        {
+          "id": "5",
+          "name": "Farinha de trigo",
+          "amount": "2 e 1/2 xícaras"
+        },
+        {
+          "id": "6",
+          "name": "Fermento em pó",
+          "amount": "1 colher de sopa"
+        },
+        {
+          "id": "7",
+          "name": "Chocolate em pó",
+          "amount": "5 colheres de sopa"
+        },
+        {
+          "id": "8",
+          "name": "Leite",
+          "amount": "1 xícara"
+        },
+        {
+          "id": "9",
+          "name": "Manteiga",
+          "amount": "1 colher de sopa"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "No liquidificador, bata a cenoura, os ovos e o óleo."
+        },
+        {
+          "id": "2",
+          "text": "Em uma tigela, misture o açúcar, a farinha e o fermento."
+        },
+        {
+          "id": "3",
+          "text": "Adicione a mistura do liquidificador aos ingredientes secos e misture bem."
+        },
+        {
+          "id": "4",
+          "text": "Despeje a massa em uma forma untada e enfarinhada."
+        },
+        {
+          "id": "5",
+          "text": "Asse em forno preaquecido a 180°C por cerca de 40 minutos."
+        },
+        {
+          "id": "6",
+          "text": "Para a cobertura, misture o chocolate, o leite e a manteiga em uma panela e leve ao fogo até engrossar."
+        },
+        {
+          "id": "7",
+          "text": "Despeje a cobertura sobre o bolo assado e deixe esfriar antes de servir."
+        }
+      ]
     }
   ]
 }
